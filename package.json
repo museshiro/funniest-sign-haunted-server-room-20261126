@@ -1,0 +1,1 @@
+{"description":"One funny line for the door of a haunted server room, written to /output/entry.txt","name":"funniest-sign-haunted-server-room","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
